@@ -1,9 +1,9 @@
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: 前端酒馆
+subtitle: 王森的个人博客
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a Jekyll Theme Built For Developers
+  将工作中做的笔记以及学习的一些笔记，再有生活中的一些事情记录下来。er
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "http://slowboat.top" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -13,14 +13,14 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
+#    - text: Shop
+#      url : /shop
     - text: Contact Me
       url : /contact
-    - text: Styleguide
-      url: /styleguide
-    - text: Get Started
-      url: /get-started
+#    - text: Styleguide
+#      url: /styleguide
+#    - text: Get Started
+#      url: /get-started
 
 # Edit these details
 
