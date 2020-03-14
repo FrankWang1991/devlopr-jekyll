@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programmer working in Office
-author: John Doe
+author: 王森
 date: '2019-05-22 14:35:23 +0530'
 category: guides
 summary: 10 reasons why programmers prefers remote jobs
